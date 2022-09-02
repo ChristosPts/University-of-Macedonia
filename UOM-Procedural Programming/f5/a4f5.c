@@ -1,5 +1,5 @@
 /*A company trades 5 products worth 25000, 15000, 32000, 21000 and 9200 euros respectively. The sale of
-  of the above products is done through 4 sellers. The following table gives the sales made in in a week:
+  of the above products is done through 4 sellers. The following table gives the sales made in a week:
 
 			Salesman| Product1 | Product2 | Product3 | Product4 | Product5
 			----------------------------------------------------------------
