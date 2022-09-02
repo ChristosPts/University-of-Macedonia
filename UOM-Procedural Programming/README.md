@@ -4,5 +4,5 @@ The course makes use of the C programming language and ROBERTS libraries.
 
 I do not own any of the assignment instructions.
 
-# License
+##  License
 GNU General Public License v3.0
