@@ -1,16 +1,16 @@
-/*Given the text file 'i4f9.dat' of a company's salespeople with the following information: 
+/*Given the text file 'i4f9.dat' of a company's salespeople with the following information:
    >vendor code (11 or 12 or 13 or 14) (int)
    >seller name (maximum 25 characters)
    >value of goods sold by the seller (long)
-  
-  The above information for each seller is separated by a comma. It is requested to create 
+
+  The above information for each seller is separated by a comma. It is requested to create
   a second text file named 'o4f9.dat' and notation: seller name( 1-24 )commission amount(25-31)
   The seller's commission amount is proportional to their code:
 	- if code = 11 then commission rate = 3%
 	- if code = 12 then commission rate = 5%
 	- if code = 13, then commission rate = 8%
 	- if code = 14 then commission rate = 11%
-	
+
 */
 
 
@@ -103,10 +103,10 @@ void calcCommission(InfoT sellers[],int count,long comArray[]){
 void writeToFile(InfoT sellers[],FILE *outfile,int count,long comArray[]){
 
      fprintf(outfile,"%-24s %7s\n","Seller Name","Commission");
-     for(int i=0; i<39; i++){fprintf(outfile,"-");}
+     for(int i=0; i<35; i++){fprintf(outfile,"-");}
      fprintf(outfile,"\n");
      for(int i=0; i<count; i++){
-         fprintf(outfile,"%-24s %14ld\n",sellers[i].name,comArray[i]);
+         fprintf(outfile,"%-24s %10ld\n",sellers[i].name,comArray[i]);
      }
 
 }
