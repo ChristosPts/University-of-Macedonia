@@ -13,21 +13,21 @@
 	(e) "closes" the input and output files
 
   After running the program the output file should contain the following content:
-    ONOMATEPWNYMO 				PONTOI
+    	ONOMATEPWNYMO 		     PONTOI
 	-----------------------------------
-	Giannis Petridis 				12
-	Spiros Papaloukas				 4
-	Dakis Lelos 					 1
-	Giorgos Pasas 					15
-	Dimitris Dimitriou 				11
-	Aggelos Kanlis 					12
-	Giannis Samaras 				 5
-	Charis louloukos 				 3
-	Kostas Mpakas 					 1
-	Petros Papadopoulou 			 1
+	Giannis Petridis 		12
+	Spiros Papaloukas		 4
+	Dakis Lelos 			 1
+	Giorgos Pasas 			15
+	Dimitris Dimitriou 		11
+	Aggelos Kanlis 			12
+	Giannis Samaras 		 5
+	Charis louloukos 		 3
+	Kostas Mpakas 			 1
+	Petros Papadopoulou 		 1
 	-----------------------------------
-	SYNOLO PONTWN 					65
-	SYNOLO PAIKTVN >= 10 			 4
+	SYNOLO PONTWN 			65
+	SYNOLO PAIKTVN >= 10 		 4
 
 */
 
