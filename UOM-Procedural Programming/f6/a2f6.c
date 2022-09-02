@@ -11,49 +11,40 @@
 
 #include <stdio.h>
 
-#define M 100
-
-int getNumbers(int array[]);
-void MinMax(int array[],int *max,int *min,int count);
-
-int main(){
-
-    int numArray[M],max,min,count;
-    printf("Enter the elements of the array, one per line.");
-    printf("\nUse -1 to signal the end of the list.\n");
-
-    count = getNumbers(numArray);
-    MinMax(numArray,&max,&min,count);
-
-    printf("The range is %d-%d",min,max);
-
-    return 0;
-}
+#define size 100
 
 int getNumbers(int array[]){
-    int num=0,i=0;
+    int i=0;
     while(1){
         printf("? ");
-        scanf("%d",&num);
-        if(num==-1){
-            break;
-        }
-        else
-        array[i] = num;
+        scanf("%d",&array[i]);
+        if(array[i]==-1){break;}
         i++;
     }
     return i;
 }
 
-void MinMax(int array[],int *max,int *min,int count){
-    *min =  array[0];
-    *max =  array[0];
+void MinMax(int array[],int *low, int *high,int count){
+    *low = array[0];
+    *high = array[0];
     for(int i=0; i<count; i++){
-        if(*max<array[i]){
-            *max=array[i];
+        if(*low>array[i]){
+            *low = array[i];
         }
-        else if(*min>array[i]){
-           *min=array[i];
+        if(*high<array[i]){
+            *high = array[i];
         }
     }
+    printf("%d %d",*low,*high);
+}
+
+int main(){
+     int array[size];
+     printf("Enter the elements of the array, one per line.\nUse -1 to signal the end of the list.\n");
+     int count = getNumbers(array);
+     int low,high;
+     MinMax(array,&low,&high,count);
+
+
+    return 0;
 }
