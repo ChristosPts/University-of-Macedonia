@@ -21,8 +21,7 @@
   >Function get_data: 2,3,4
   >Function calc_salaries: 5,6
   >Function print_data function: 7
-  Deductions are 15% of gross earnings and tax is 7% of gross less deductions.
-*/
+  Deductions are 15% of gross earnings and tax is 7% of gross less deductions.*/
 
 
 #include <stdio.h>
