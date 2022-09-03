@@ -1,14 +1,19 @@
 /*A student is considered to have failed when his grade average in all subjects is less than 9.5, 
   while he is considered to have excelled when his grade average is greater than or equal to 18.5. 
-  Write a program that implements the following 4 functions
-  1)A function that will generate random grades on a scale of 0..20 for a given number of 
-    students and courses and enter them into an appropriate array. Function parameters 
-	dimensions of array and the array.
-  2)A function that will accept for a specific number of students and courses their grades and 
-    will calculate the average grade of each student and register it in a suitable array.
-  3)A function that will display for each student his scores as well as his corresponding average.
-  4)A function that will calculate and "return" the number and percentage of students who failed 
-    as well as the number and percentage of students  which were excellent
+  Write a program that implements the following 4 functions:
+  
+  1) A function that will generate random grades on a scale of 0..20 for a given number of 
+     students and courses and enter them into an appropriate array. Function parameters: 
+     dimensions of array and the array.
+     
+  2) A function that will accept for a specific number of students and courses their grades and 
+     will calculate the average grade of each student and register it in a suitable array.
+     
+  3) A function that will display for each student his scores as well as his corresponding average.
+  
+  4) A function that will calculate and "return" the number and percentage of students who failed 
+     as well as the number and percentage of students  which were excellent
+     
   In the main program the above functions will be called and the display of what function 4 
   calculates will be done in the main program. Assume you have 30 students and 3 courses.*/
 
