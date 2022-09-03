@@ -1,4 +1,4 @@
-## Mutual exclusion
+## Lab3 - Mutual exclusion
 1. Start from Code/SharedCounter, SharedCounterMutex and SharedCounterSync.\
 1.1. Study SharedCounter sharing techniques\
 Apply the techniques of in the Code/SharedCounterExercise regarding variable sharing techniques\
