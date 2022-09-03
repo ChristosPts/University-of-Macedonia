@@ -1,4 +1,4 @@
-## Introduction to threads
+## Lab 1 - Introduction to threads
 Study and build on the codes from HelloJavaThreads.
 
 1. Write code that creates two threads, but each belongs to a different class.
