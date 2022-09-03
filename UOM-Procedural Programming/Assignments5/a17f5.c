@@ -1,9 +1,9 @@
-/*The grade in a student's course is given in integer values ​​from 0 to 20. A student is
+/*The grade in a student's course is given in integer values from 0 to 20. A student is
   considered to have failed when the average of his grades in all subjects is less than 9.5,
   while he is considered to have excelled if his average is greater than or equal to 18.5.
   Write a program that reads the grades of 10 students in 3 subjects and registers them in
-  an array. The program will calculate and display the number and percentage
-  of students who failed, as well as the number and percentage of students who excelled*/
+  an array. The program will calculate and display the number and percentage of students who 
+  failed, as well as the number and percentage of students who excelled*/
 
 #include <stdio.h>
 #include "simpio.h"
