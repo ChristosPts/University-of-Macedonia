@@ -4,23 +4,19 @@
   (per country). The monthly receipts of each hall for a summer are entered in a two-dimensional
   array (cities, months). The program will perform the following 6 operations using functions:
 
-  1)A function that will read the monthly receipts of each city and store them in a 2-dimensional array.
-    In the summer, the cinemas are open all 3 months. The function will have parameters the dimensions
-    of the table, the table and the price of the ticket. It will read the number of tickets of each
-    city for each summer month and calculate the corresponding collection based on the specified ticket price.
-  2)Function that will calculate the average monthly collection for each city.
-  3)Function that will calculate the average monthly collection for each month
-  4)Function that will calculate the smallest monthly collection and in which city and in which month was held.
-  5)Function that will display the cinema receipts for each city and each month.
-  6)Function that will display the average monthly collection for each room, the average monthly collection
-    for each month, the smallest monthly collection and in which city and in which month it took place
+  1) A function that will read the monthly receipts of each city and store them in a 2-dimensional array.
+     In the summer, the cinemas are open all 3 months. The function will have parameters the dimensions
+     of the table, the table and the price of the ticket. It will read the number of tickets of each
+     city for each summer month and calculate the corresponding collection based on the specified ticket price.
+  2) Function that will calculate the average monthly collection for each city.
+  3) Function that will calculate the average monthly collection for each month
+  4) Function that will calculate the smallest monthly collection and in which city and in which month was held.
+  5) Function that will display the cinema receipts for each city and each month.
+  6) Function that will display the average monthly collection for each room, the average monthly collection
+     for each month, the smallest monthly collection and in which city and in which month it took place
 
   The price of the ticket in Greece is 7.5 euro and in Cyprus 8.5 euro. Overall there are 5 screens in Greece
-  and 2 in Cyprus.
-
-*/
-
-
+  and 2 in Cyprus.*/
 
 #include <stdio.h>
 
