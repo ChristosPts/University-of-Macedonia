@@ -1,4 +1,4 @@
-## Υπολογισμός του π με αριθμητική ολοκλήρωση
+## Lab 5 - Calculation of π by numerical integration
 After studying Code/VecSum apply the corresponding methods to a numerical integration problem, calculating π. The sequential code is in Code/NumInt.\
 Shown below is how er calculatine π by numerical integration. We divide the value field into numSteps small parts, with step length. At the middle of 
 each segment we calculate x, f(x) and sum the values of the step*f(x) areas to calculate π/4.
