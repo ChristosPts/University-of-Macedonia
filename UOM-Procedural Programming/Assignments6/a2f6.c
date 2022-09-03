@@ -3,11 +3,10 @@
   accepts numbers from the user until the value -1 is given. The program displayes
   the range of the giben numbers.(It calculates the maximum and minimum element of 
   the array and displays them on the screen). 
-  >Use a function which reads the numbers from the user, stores them in the array
-  (except -1), and returns the number of values entered
-  >Use a function which finds the largest and smallest element of the array and returns
-  the two values to the main function
-  >*/
+  > Use a function which reads the numbers from the user, stores them in the array
+   (except -1), and returns the number of values entered.
+  > Use a function which finds the largest and smallest element of the array and returns
+    the two values to the main function.*/
 
 #include <stdio.h>
 
