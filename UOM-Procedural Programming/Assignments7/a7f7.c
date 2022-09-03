@@ -2,13 +2,13 @@
 
 	Points | Letters
    -----------------------------------------
-	  1	   | A, E, I, L, N, O, R, S, T, U
-	  2	   | D, G
-	  3	   | B, C, M, P
-	  4	   | F, H, V, W, Y
-	  5	   | K
+	  1    | A, E, I, L, N, O, R, S, T, U
+	  2    | D, G
+	  3    | B, C, M, P
+	  4    | F, H, V, W, Y
+	  5    | K
 	  8    | J, X
-	 10	   | Q, Z
+	 10    | Q, Z
 
   Write a ScrabbleScore function that takes a word (with a maximum of 20 characters - char[21])
   as an argument and returns the score the word would get if played on the Scrabble board,
