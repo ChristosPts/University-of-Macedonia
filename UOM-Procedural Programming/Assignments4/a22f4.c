@@ -1,10 +1,11 @@
 /*The VAT of a product belongs to one of the following categories
 
-			Category 	VAT Rate
-				1 		  0.00
-				2 		  0.06
-				3 		  0.13
-				4 		  0.19
+					    Category |	VAT Rate
+					    ----------------------
+						1    |    0.00
+						2    | 	  0.06
+						3    |	  0.13
+						4    |	  0.19
 
   Write a program that will ask to enter the count(int), the unit value(double) and the VAT category(int)
   for 5 products. The program should show the total cost of the expenditure as well as the total VAT for all
