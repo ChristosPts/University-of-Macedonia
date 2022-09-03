@@ -1,12 +1,11 @@
 /*Write a program that will read 2 numbers (int) M and N, and then:
-
-  >using a Read_Array procedure will read the MxN (rows x columns) elements
-  (long) of a two-dimensional matrix A (maximum dimension 50x50).
-  >using a Find_Min_of_Rows procedure will find and store in one
-  one-dimensional array B (maximum dimension 50) the minimum term of each row of array A.
-  >using a Print_Min_Array procedure will display the one-dimensional array that
-  created in the previous procedure.
-
+   >using a Read_Array procedure will read the MxN (rows x columns) elements
+    (long) of a two-dimensional matrix A (maximum dimension 50x50).
+   >using a Find_Min_of_Rows procedure will find and store in one
+    one-dimensional array B (maximum dimension 50) the minimum term of each row of array A.
+   >using a Print_Min_Array procedure will display the one-dimensional array that
+    created in the previous procedure.
+  
   The procedures will be called from main in the above order*/
 
 #include <stdio.h>
