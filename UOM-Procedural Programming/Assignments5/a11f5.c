@@ -1,11 +1,11 @@
 /*E.M.Y. records every 8 hours the temperatures of 10 cities in Greece (the names of the cities are
   coded with numbers: 0=Thessaloniki, 1=Athens etc). Write a program that will read the
   temperatures(double) of a twenty-four hour period for each city then calculate and display:
-  >the national average temperature (double type variable) and
- > for each city its average temperature and its maximum deviation from the national average
-  (variables of type double).
+  > the national average temperature (double type variable) and
+  > for each city its average temperature and its maximum deviation from the national average
+    (variables of type double).
 
- The results should appear in the following format:
+  The results should appear in the following format:
   national average temperature
   City 0 city 0 average temperature_city 0's maximum deviation from the national average
   City 1 1st city average temperature_1st city's maximum deviation from the national average
