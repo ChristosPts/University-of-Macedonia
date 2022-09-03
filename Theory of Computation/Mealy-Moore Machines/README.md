@@ -32,4 +32,15 @@ The encryption works on the condition that the user gives the last two zeros. Du
 The machine works with the condition that the last two zeros of the original text are already in the machine so they do not need to be supplied by the user.
 
 
+#### Mealy Machine Encoder
+![image](https://user-images.githubusercontent.com/105457831/188272159-1c6e617c-8520-4303-9d96-96259a1a7b44.png)
+
+#### Mealy Machine Decoder 
+![image](https://user-images.githubusercontent.com/105457831/188272205-7491bdd0-6f59-437e-a0e3-1b8109163927.png)
+
+#### Moore Machine Encoder
+![image](https://user-images.githubusercontent.com/105457831/188272210-6313b04e-168f-4eab-b94f-c30b8dae8d53.png)
+
+#### Moore Machine Decoder 
+![image](https://user-images.githubusercontent.com/105457831/188272220-347b13f8-8c88-4269-8fe8-b3cb6f0259e1.png)
 
