@@ -1,8 +1,8 @@
 /*Write a decompose function(void), which will accept as an argument an integer (long) 
   and inform the calling function about the following:
-  >the number of its digits,
-  >the average of its digits,
-  >its maximum digit.
+   > the number of its digits,
+   > the average of its digits,
+   > its maximum digit.
   Implement a program which in the main() function will prompt the user for a number 
   (non-negative integer - no validation required), and uses the above function to display 
   (from the main() function) the above elements of the number. The average will be displayed 
