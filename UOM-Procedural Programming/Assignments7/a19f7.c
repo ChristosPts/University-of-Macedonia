@@ -3,7 +3,7 @@
      that any of the names is a maximum of 19 characters.  It will then prompt the user for a character
   2. it will find the names starting with the given character
   3. it will display how many names start with the given character and display them
-  Using functions is optional:*/
+  Note: Using functions is optional:*/
 
 #include<stdio.h>
 #include<string.h>
