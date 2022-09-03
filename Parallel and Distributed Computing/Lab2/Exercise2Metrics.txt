@@ -1,0 +1,82 @@
+------------------------------
+SIZE: 1000
+number of threads: 1
+time = 17 ms
+
+number of threads: 2
+time = 16 ms
+
+number of threads: 4
+time = 16 ms
+
+number of threads:8
+time = 7 ms
+
+number of threads:16
+time = 10 ms
+s
+number of threads: 32
+time = 0 ms
+------------------------------
+------------------------------
+SIZE: 2000
+number of threads: 1
+time = 16 ms
+
+number of threads: 2
+time = 15 ms
+
+number of threads: 4
+time = 24 ms
+
+number of threads:8
+time = 16 ms
+
+number of threads:16
+time = 16 ms
+
+number of threads: 32
+time = 5 ms
+------------------------------
+------------------------------
+SIZE: 5000
+number of threads: 1
+time = 100 ms
+
+number of threads: 2
+time = 32 ms
+
+number of threads: 4
+time = 22 ms
+
+number of threads:8
+time = 23 ms
+
+number of threads:16
+time = 35 ms
+
+number of threads: 32
+time = 31 ms
+------------------------------
+------------------------------
+SIZE: 10000
+number of threads: 1
+time = 371 ms
+
+number of threads: 2
+time = 373 ms
+
+number of threads: 4
+time = 22 ms
+
+number of threads:8
+time = 16 ms
+
+number of threads:16
+time = 37 ms
+
+number of threads: 32
+time = 30 ms
+------------------------------
+
+
