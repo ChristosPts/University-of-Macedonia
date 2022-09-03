@@ -9,7 +9,7 @@
 	(c) creates a second text (output) file named 'baso11f9.dat' in the main program
 	(d) saves in the output file the name and number of points of each player. Also the total points of
 	    all players as well as the number of players who have more than 10 points. Saving is done via the
-		writeToFile function.
+	    writeToFile function.
 	(e) "closes" the input and output files
 
   After running the program the output file should contain the following content:
