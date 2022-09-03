@@ -4,7 +4,7 @@
   Write a program that will perform the following functions:
   1. Input of patient data (function parameters: array of patients, number of patients)
   2. Display all clinic patients (analytic status) (function parameters: name of clinic,
-  array of patients,number of patients)
+     array of patients,number of patients)
   3. Find and return the patient with the highest payment(function parameters: array of patients,
      number of patients).
   4. Calculation of the total receipts of the clinic (function parameters: array of patients,
@@ -12,9 +12,9 @@
   5. Display a patient (all elements of the patient) (function parameters: the patient)
   6. Search patient (function parameters: array of patients, number of patients, the patient.
      Returns TRUE (Boolean) if the patient is found and FALSE otherwise). The search will be
-	 done by the last name and first name that will be read (given by the user) inside the
-	 function. The full details of the patient will be "returned" by the corresponding
-	 parameter of the function.
+     done with the last and first name ande be read (given by the user) inside the
+     function. The full details of the patient will be "returned" by the corresponding
+     parameter of the function.
 
   Check the above functions for 2 clinics eg GALINOS clinic with 3 patients and ELPIS with
   2 patients (for each clinic you will create a separate table).
