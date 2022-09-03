@@ -7,8 +7,7 @@
     N in table a and the table positions in which the number appears
  The printing of the results will be done by the function main() , and the positions that
  the numbers N are will be displayed by calling printArr.
- (first position is 0 - last position is 49)
-  */
+ (first position is 0 - last position is 49) */
 
 #include <stdio.h>
 #include "simpio.h"
