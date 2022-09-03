@@ -1,6 +1,6 @@
 /*Write a program that:
-  1.will request 5 names and will enter them in an appropriate character table. We consider
-  that any of the names is a maximum of 19 characters.  It will then prompt the user for a character
+  1. will request 5 names and will enter them in an appropriate character table. We consider
+     that any of the names is a maximum of 19 characters.  It will then prompt the user for a character
   2. it will find the names starting with the given character
   3. it will display how many names start with the given character and display them
   Using functions is optional:*/
