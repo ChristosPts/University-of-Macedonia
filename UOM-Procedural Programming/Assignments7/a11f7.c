@@ -1,8 +1,8 @@
 /*Write a program that:
-  a)Reads from the user an e-mail address of the above format (as alphanumeric).
-  b)In case there are spaces at the beginning or at the end of the original e-mail address to remove these spaces.
-  c)Prints on the screen the part of the address corresponding to the name as well as the length of the name.
-  d)Prints on the screen the part of the address corresponding to the address of the mail server.*/
+  a) Reads from the user an e-mail address of the above format (as alphanumeric).
+  b) In case there are spaces at the beginning or at the end of the original e-mail address to remove these spaces.
+  c) Prints on the screen the part of the address corresponding to the name as well as the length of the name.
+  d) Prints on the screen the part of the address corresponding to the address of the mail server.*/
 
 #include <stdio.h>
 #include <string.h>
