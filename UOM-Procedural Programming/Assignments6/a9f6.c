@@ -3,26 +3,24 @@
 
 			Salesman| Product1 | Product2 | Product3 | Product4 | Product5 
 			----------------------------------------------------------------
-				  1	  |	   10	   |	   4	  | 	 5     |	   6    |     7
-				  2	  |	    7	   |	   0	  |	  12     |	   1    |     3
-				  3	  |	    4	   |	  19	  |		 5     |	   0    |     8
-				  4	  |	    3	   |	   2	  |		 1     |	   5    |     6
+			   1	|    10	   |	 4    |    5     |     6    |     7
+			   2    |     7	   |	 0    |	  12     |     1    |     3
+			   3	|     4	   |	19    |	   5     |     0    |     8
+			   4	|     3	   |	 2    |	   1     |     5    |     6
 				
   Write a program which:
-  >Calculates and will store in a salesPerson[] array the total collection amount(int)
-   for each salesperson, via a calculateSales() function
-  >Calculates and will store in a productSale[] array the quantities (int) sold of each 
-   product, via a calculateProductSales() function
-  >Will print the total sales of each seller and the total sales of each product
-   The seller with the highest sales (by revenue) and the product with the most 
-   sales and how many units they sold.  
-  >Uses a maxArray() function which will accept a one-dimensional array, its size 
-  (number of elements) and return its maximum element and its position in the array
-  >Uses a printArray() function which accepts an array, its dimensions and will print the 
-   array to the screen in two columns, where the first column will be the position of the 
-   element in the array and the second its value.
-
-*/
+  > Calculates and will store in a salesPerson[] array the total collection amount(int)
+    for each salesperson, via a calculateSales() function
+  > Calculates and will store in a productSale[] array the quantities (int) sold of each 
+    product, via a calculateProductSales() function
+  > Will print the total sales of each seller and the total sales of each product
+    The seller with the highest sales (by revenue) and the product with the most 
+    sales and how many units they sold.  
+  > Uses a maxArray() function which will accept a one-dimensional array, its size 
+    (number of elements) and return its maximum element and its position in the array
+  > Uses a printArray() function which accepts an array, its dimensions and will print the 
+    array to the screen in two columns, where the first column will be the position of the 
+    element in the array and the second its value./
 
 #include <stdio.h>
 #include <stdlib.h>
