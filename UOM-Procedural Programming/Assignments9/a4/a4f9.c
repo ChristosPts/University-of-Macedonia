@@ -1,7 +1,7 @@
 /*Given the text file 'i4f9.dat' of a company's salespeople with the following information:
-   >vendor code (11 or 12 or 13 or 14) (int)
-   >seller name (maximum 25 characters)
-   >value of goods sold by the seller (long)
+   > vendor code (11 or 12 or 13 or 14) (int)
+   > seller name (maximum 25 characters)
+   > value of goods sold by the seller (long)
 
   The above information for each seller is separated by a comma. It is requested to create
   a second text file named 'o4f9.dat' and notation: seller name( 1-24 )commission amount(25-31)
@@ -10,9 +10,7 @@
 	- if code = 12 then commission rate = 5%
 	- if code = 13, then commission rate = 8%
 	- if code = 14 then commission rate = 11%
-
 */
-
 
 #include <stdio.h>
 #include <string.h>
