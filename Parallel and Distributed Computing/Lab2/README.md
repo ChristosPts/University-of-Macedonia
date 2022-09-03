@@ -1,4 +1,4 @@
-## Shared variables, Simple parallelism (map)
+## Lab 2 - Shared variables, Simple parallelism (map)
 ### 1. Shared variables
 Study Code/Shared and Code/Sqrt. In Code/Sqrt:\
 1.1. Label all variables (local, object variables, class variables)\
